@@ -17,6 +17,6 @@ Membres de l'équipe :
 * Laureline Pinault
 * Léo Stéfanesco
 
-Vous pouvez trouver le code source du projet sur [Github](github.com/TriComp/TriComp).
+Vous pouvez trouver le code source du projet sur [Github](https://github.com/TriComp/TriComp).
 
 
