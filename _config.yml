@@ -28,8 +28,8 @@ kramdown:
 # Site owner
 owner:
   name: TriComp Project
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: ball_of_wool.png
+  bio: "A knitting compiler"
   email: 
   disqus-shortname: 
   twitter: #username
