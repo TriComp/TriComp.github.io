@@ -3,6 +3,7 @@
 title:            TriComp
 locale:           en_US
 url:              http://localhost:4000
+url:              https://tricomp.github.io
 
 
 # Jekyll configuration
