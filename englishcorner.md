@@ -4,8 +4,8 @@ title: English Corner
 permalink: /englishcorner/
 ---
 
-Welcome on the website of project Tricomp, the knitting compiler. TriComp is currently not available but in progress; it is performed with OCaml and C++. It is a software making the manufacturing of various knitted clothes easier. 
-This Project is working in the frame of the course of integrated project in M1if of ENS Lyon.
+Welcome on the website of project Tricomp, the knitting compiler. TriComp is currently not available but in progress; it is made with OCaml and C++. It is a software for making the manufacturing of various knitted clothes easier. 
+This Project is a group project for the master of (theoretical) computer science of ENS Lyon.
 Team :
 
 * William Aufort
