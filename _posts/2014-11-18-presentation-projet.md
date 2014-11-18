@@ -13,6 +13,6 @@ l'objet en une description "bas niveau" (la suite des mailles à tricoter pour l
 "compilateur de tricot", d'où son nom.
 
 Le projet en lui-même est composé de plusieurs modules : 
-* l'interface graphique
-* la définition et la spécification des langages bas et haut niveau
-* le compilateur (parsage du langage de haut niveau et conversion en langage de bas niveau)
+- l'interface graphique
+- la définition et la spécification des langages bas et haut niveau
+- le compilateur (parsage du langage de haut niveau et conversion en langage de bas niveau)
